@@ -29,7 +29,7 @@ jobs:
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
         image: yousun2286/springboot
-        tags: boot
+        tags: rest
         registry: docker.io
         dockerfile: Dockerfile
         username: ${{ secrets.DOCKER_USERNAME }}
