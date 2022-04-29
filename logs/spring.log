@@ -1,0 +1,10 @@
+2022-04-29 17:54:56.724  INFO 18928 --- [restartedMain] c.e.m.MyspringbootAppApplication         : Starting MyspringbootAppApplication using Java 1.8.0_322 on DESKTOP-G2E5LQV with PID 18928 (C:\jdk8_spring\workspace\myspringboot-app1\target\classes started by yousu in C:\jdk8_spring\workspace\myspringboot-app1)
+2022-04-29 17:54:56.724  INFO 18928 --- [restartedMain] c.e.m.MyspringbootAppApplication         : The following 1 profile is active: "prod"
+2022-04-29 17:54:56.908  INFO 18928 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-29 17:54:56.909  INFO 18928 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 0 ms. Found 0 JPA repository interfaces.
+2022-04-29 17:54:57.029  INFO 18928 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-29 17:54:57.030  INFO 18928 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 17:54:57.031  INFO 18928 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 17:54:57.048  INFO 18928 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 17:54:57.048  INFO 18928 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 320 ms
+2022-04-29 17:54:57.061  INFO 18928 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
